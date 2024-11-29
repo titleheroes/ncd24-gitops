@@ -4,7 +4,7 @@ nodePort: 31002
 containerPort: 8000
 image:
   repository: ghcr.io/titleheroes/ncd24-fastapi
-  tag: dev-872211e
+  tag: dev-e85cc64
   pullPolicy: Always
 probe:
   enabled: true
