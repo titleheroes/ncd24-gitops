@@ -3,8 +3,8 @@ nodePortEnabled: true
 nodePort: 31002
 containerPort: 8000
 image:
-  repository: ghcr.io/CHANGEME/ncd24-fastapi
-  tag: dev
+  repository: ghcr.io/titleheroes/ncd24-fastapi
+  tag: dev-9834514
   pullPolicy: Always
 probe:
   enabled: true
